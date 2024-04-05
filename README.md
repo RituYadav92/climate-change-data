@@ -26,8 +26,9 @@ This set of resources is based on my own research but feel free to add anything 
 |  Driven Data | [LINK](https://www.drivendata.org/ "LINK") | Data science competitions on some of the world's biggest social challenges |
 |  Mattermore | [LINK](https://www.mattermore.io/ "LINK") | Our mission is to bring the best and the brightest together to build data-driven solutions to climate change |
 |  Open Climate Fix | [LINK](https://openclimatefix.org "LINK") | Open Climate Fix is a new non-profit research and development lab using an open-source approach to search for ML problems where, if we solve a well-defined ML task, then there is likely to be a large climate impact. |
-|  ZIND | [LINK](https://zindi.africa/competitions?page=2 "LINK") | Data Science competitions in Africa. It is a place to access African datasets and solve African problems. |  EY challenge | [LINK](https://challenge.ey.com/ "LINK") | Open Science data challenge platform |
-|
+|  ZIND | [LINK](https://zindi.africa/competitions?page=2 "LINK") | Data Science competitions in Africa. It is a place to access African datasets and solve African problems.| 
+|  EY challenge | [LINK](https://challenge.ey.com/ "LINK") | Open Science data challenge platform |
+
 
 ## APIs
 |  **name** | **url** | **sector** | **description** | **existing-r-pkg** |
